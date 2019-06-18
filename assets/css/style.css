@@ -787,12 +787,18 @@ font-size: 6rem;
 .portfolio p {
     color: #f9f9f9;
 }
-.grow-flex h4 {
+.grow h4 {
     color: #fffdfd;
 }
 .head_title{
 	padding-top:10px;
 	padding-bottom: 50px;
+}
+.select-city {
+    color: #000;
+}
+.select-city h4 {
+    color: #ffffff;
 }
 
 .single_portfolio_text{
