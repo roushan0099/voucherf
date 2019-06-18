@@ -783,15 +783,17 @@ font-size: 6rem;
 .portfolio h3 {
     color: #f9f9f9;
     padding-top: 10px;
+    font-size: 80%;
 }
 .portfolio p {
     color: #f9f9f9;
 }
 .grow h4 {
     color: #fffdfd;
+    font-size: 80%
 }
 .head_title{
-	padding-top:10px;
+	padding-top:15px;
 	padding-bottom: 50px;
 }
 .select-city {
